@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**elh-bayat/elh-bayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Elaheh Bayat
 
-Here are some ideas to get you started:
+🎓 I'm a Master's student in **Telecommunications Engineering** at the University of Applied Sciences Carinthia, Austria.  
+💡 I hold a Bachelor's degree in **Electrical Engineering (Electronics)** and have strong interests in **networking, telecommunications, and embedded systems**.  
+⚙️ I’m skilled in **Python**, **MATLAB**, **Cisco Packet Tracer**, and **Linux**.  
+🚀 I enjoy learning new technologies and working on projects related to **V2X communication**, **data transfer**, and **network simulations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- **Programming:** Python (OOP, data analysis), MATLAB  
+- **Networking:** Cisco Packet Tracer, DHCP, RIP, VLAN, Routing  
+- **Tools:** Git, Linux, Wireshark  
+- **Languages:** English (IELTS ~6.5), German (intermediate)
+
+---
+
+## 💼 Projects
+### 🔹 Python Projects
+- [🚗 Simple V2X Communication Simulation](https://github.com/elh-bayate/v2x_simulation)
+
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: elh.bayat7784@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/elaheh-bayat-644731333/ 
+- 🌍 GitHub: https://github.com/elh-bayat
+
+---
+
+⭐ *“Always learning, always improving.”*
